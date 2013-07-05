@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oraculo</string>
+    <string name="action_settings">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Titulo">Digite uma pergunta seu imbecil</string>
+    <string name="firmezaBO">
+        Nada, mas conversei com meu professor de direito e a situação é um pouco mais complicada.
+		
+		O BO era do dia 30 de novembro (Anivesonda do Zebob). O HC deu o depoimento sobre o que ocorreu no dia que se resume em:
+		- Houve uma festa no dia, mas não houveram mais depois do ocorrido.
+		- Uma carta de retratação foi enviada aos vizinhos.
+		- Os moradores da redondeza possuem nossos telefones para contato em caso de problemas.
+		- Após o ocorrido, chegamos a ser notificados pelos vizinho quanto a barulho, no qual nos prestamos em solucionar imediatamente.
+		
+		Eu assinei a declaração.
+		
+		Existe a possibilidade de ser feita a representação do BO, neste caso, o caso é levado até um Fórum, e julgado por um Desembargador (Juiz de 1ª instância). Se a representação não foi feita ainda, o vizinho tem até o dia 31/05 para fazê-lo.
+		Se chegar uma carta de comparecimento ao Fórum significa que estamos oficialmente sendo processados.
+        
+       </string>
+
+</resources>
